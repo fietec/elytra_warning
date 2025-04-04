@@ -1,0 +1,4 @@
+scoreboard objectives remove elytra_warning 
+scoreboard objectives remove elytra_damage
+scoreboard objectives remove elytra_durability 
+scoreboard objectives remove elytra_durability_threshold
