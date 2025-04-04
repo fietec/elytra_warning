@@ -2,6 +2,8 @@
 
 A simple datapack for Minecraft 1.21.5 for warning the player when their elytra is about to break.
 
+This is solely achieved via `trigger` commands and therefore none of the players are required to have op-level privileges.
+
 ![](screenshot.png)
 
 ## How to use
